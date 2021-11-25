@@ -1,4 +1,4 @@
-const courses = [
+export const courses = [
   {
     "title": "Work The Web",
     "slug": "wtw",
